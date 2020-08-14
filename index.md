@@ -1,42 +1,28 @@
 ---
 layout: default
-title: "Products for Profit aka PFP Review (2020)"
+title: "Products for Profit (aka PFP) Review (2020)"
+description: "A scam or a legit program?"
 ---
 
-## Welcome to GitHub Page
+## What is Products for Profit(PFP)?
 
-You can use the [editor on GitHub](https://github.com/sparkythehuman/products-for-profit-review/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- [Is it a Scam?](#Is-it-a-Scam)
+- [Who is Joe Hart?](#Who-is-Joe-Hart)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Is it a Scam? 
 
-### Markdown
+## Who is Joe Hart?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Pros and Cons
 
-```markdown
-Syntax highlighted code block
+## What to expect
 
-# Header 1
-## Header 2
-### Header 3
+## What is "Flipping"? 
 
-- Bulleted
-- List
+## How much experience do you need? 
 
-1. Numbered
-2. List
+## Who is this course for?
 
-**Bold** and _Italic_ and `Code` text
+## Is Products for Profit (PFP) an MLM? A "pyramid scheme"?
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sparkythehuman/products-for-profit-review/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Final Verdict
