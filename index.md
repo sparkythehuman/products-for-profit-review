@@ -1,6 +1,5 @@
----
-title: Products for Profit aka PFP Review (2020)
----
+title: "Products for Profit aka PFP Review (2020)"
+
 
 ## Welcome to GitHub Pages
 
