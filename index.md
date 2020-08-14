@@ -7,7 +7,7 @@ description: "A scam or a legit program?"
 ## What is Products for Profit(PFP)?
 
 - [Is It A Scam?](#is-it-a-scam)
-- [Is It an MLM? A "pyramid scheme"?](#is-it-a-scam)
+- [Is It an MLM? A "pyramid scheme"?](#is-it-an-mlm-a-pyramid-scheme)
 - [What Are The Pros And Cons?](#what-are-the-pros-and-cons)
 - [Who Is Joe Hart?](#who-is-joe-hart)
 - [What Is "Flipping?"](#what-is-flipping)
