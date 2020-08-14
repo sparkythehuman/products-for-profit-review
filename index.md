@@ -6,23 +6,40 @@ description: "A scam or a legit program?"
 
 ## What is Products for Profit(PFP)?
 
-- [Is it a Scam?](#Is-it-a-Scam)
-- [Who is Joe Hart?](#Who-is-Joe-Hart)
+- [Is It A Scam?](#is-it-a-scam)
+- [Is It an MLM? A "pyramid scheme"?](#is-it-a-scam)
+- [What Are The Pros And Cons?](#what-are-the-pros-and-cons)
+- [Who Is Joe Hart?](#who-is-joe-hart)
+- [What Is "Flipping?"](#what-is-flipping)
+- [Is It Good For Beginners?](#is-it-good-for-beginners)
+- [Is It For Me?](#is-it-for-me)
+- [How Soon Will I Make Money?](#how-soon-will-i-make-money?)
+- [Is It Worth It?](#is-it-worth-it)
+- [What's Included?](#whats-included)
+- [How Much Money Do I Need To Get Started?](#how-much-money-do-i-need-to-get-started)
+- [Final Verdict](#final-verdict)
 
-## Is it a Scam? 
 
-## Who is Joe Hart?
+## Is It A Scam? 
 
-## Pros and Cons
+## Is It an MLM? A "pyramid scheme"?
 
-## What to expect
+## What Are The Pros And Cons?
 
-## What is "Flipping"? 
+## Who Is Joe Hart?
 
-## How much experience do you need? 
+## What Is "Flipping"? 
 
-## Who is this course for?
+## Is It Good For Beginners?
 
-## Is Products for Profit (PFP) an MLM? A "pyramid scheme"?
+## Is It For Me?
+
+## How Soon Will I Make Money?
+
+## Is It Worth It? 
+
+## What's Included?
+
+## How Much Money Do I Need To Get Started?
 
 ## Final Verdict
