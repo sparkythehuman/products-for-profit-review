@@ -4,6 +4,10 @@ title: "Products for Profit (aka PFP) Review (2020)"
 description: "A scam or a legit program?"
 ---
 
+_Author: Joshua Garcia_
+
+_Updated: August 13, 2020_
+
 ## What is Products for Profit(PFP)?
 
 - [Is It A Scam?](#is-it-a-scam)
